@@ -9,12 +9,11 @@
 		"email": "contact@esotericsoftware.com",
 		"url": "http://esotericsoftware.com/"
 	},
-	"dependencies": {
-		"com.esotericsoftware.spine.spine-csharp": "3.99.1"
+	"dependencies": {		
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:EsotericSoftware/spine-runtimes.git"
+		"url": "git@github.com:RiddikZ/Spine4Unity.git"
 	},
 	"keywords": [
 		"spine",

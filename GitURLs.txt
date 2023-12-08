@@ -1,5 +1,4 @@
 ﻿Doc:
 https://ru.esotericsoftware.com/spine-unity
 
-https://github.com/RiddikZ/Spine4Unity.git?path=spine-csharp/src
-https://github.com/RiddikZ/Spine4Unity.git?path=spine-unity/Assets/Spine
+https://github.com/RiddikZ/Spine4Unity.git
