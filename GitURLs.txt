@@ -1,4 +1,4 @@
 ﻿Doc:
 https://ru.esotericsoftware.com/spine-unity
 
-https://github.com/RiddikZ/Spine4Unity.git
+https://github.com/RiddikZ/Spine4Unity.git?path=/Spine
